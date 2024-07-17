@@ -80,11 +80,19 @@ html, body {
 
 .soc {
     display: flex;
-    padding-top: 100px;
+    margin-right: 25px;
 }
 
 .soct {
     color: white;
     text-decoration: none;
     margin-left: 10px;
+}
+
+.morj {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding-top: 75px;
 }
