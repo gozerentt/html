@@ -39,7 +39,7 @@ html, body {
 }
 
 .content {
-    width: 40%;
+    width: calc(100vh - 120px);
     min-height: calc(100vh - 100px);
     background-color: #222222;
     margin-left: auto;
@@ -95,4 +95,10 @@ html, body {
     margin-right: auto;
     margin-bottom: auto;
     padding-top: 75px;
+}
+
+.soclab {
+    color: white;
+    text-align: center;
+    padding-top: 5%;
 }
