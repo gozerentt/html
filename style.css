@@ -31,6 +31,7 @@ html, body {
 .hdr_img {
     padding-left: 15px; 
     padding-right: 15px;
+    width: 35px;
 }
 
 .hdr_ul {
@@ -108,4 +109,16 @@ html, body {
     color: white;
     text-align: center;
     padding-top: 5%;
+}
+
+.chomikp {
+    text-align: center;
+}
+
+.socpic{
+    width: 20px;
+}
+
+.nojki{
+    width: 250px;
 }

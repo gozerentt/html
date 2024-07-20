@@ -1,0 +1,63 @@
+@media (max-width: 992px){
+    .header{
+        height: 160px;
+    }
+
+    .header_name{
+        font-size: 50px;
+    }
+    
+    .hdr_ul{
+        font-size: 30px;
+    }
+
+    .content{
+        width: initial;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .footer{
+        height: 80px;
+    }
+    
+    .footr{
+        font-size: 30px;
+    }
+
+    .gifka{
+        width: 40%;
+        margin-top: 50px;
+    }
+    
+    .contxt{
+        font-size: 36px;
+        line-height: 1.5;
+    }
+
+    .hdr_img{
+        width: 75px;
+    }
+
+    .soct{
+        font-size: 42px;
+    }
+    
+    .socpic{
+        width: 36px;
+    }
+    
+    .morj{
+        margin-top: 75px;
+        width: 600px;
+    }
+
+    .soclab{
+        font-size: 50px;
+    }
+
+    .nojki{
+        width: 500px;
+    }
+}
+
